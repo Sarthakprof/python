@@ -1,0 +1,16 @@
+cmd basics
+
+$ cd
+current ditrectory
+
+$ dir
+folders in current directory
+
+go to folder
+$ cd desktop
+
+go back up to prev directory
+$ cd ..
+
+clear the screen
+$ cls
